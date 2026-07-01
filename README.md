@@ -10,6 +10,8 @@ You can find me on Twitter, [@_emjlin](www.twitter.com/_emjlin).
 - Devcon 6 Workshop - Build a DApp on Optimism: How to Conquer L2 Bridging
   - [Video](https://www.youtube.com/watch?v=mvYM6QRE3OE&list=PLaM7G4Llrb7x3ol0Ag4_qebqtC9jSuQnE&index=26)
   - [Written guide](https://trufflesuite.com/guides/optimism-bridge-widget/)
+- Devcon 7 Workshop - Speedrun Rollups: A Beginner's Guide to L2s, ZK, and WTF People are Talking About on Panels
+  - [Video](https://www.youtube.com/watch?v=HDV-WoMb3U4&list=PLaM7G4Llrb7z2cr049-CF7e1Fa2HsgIp_)
 - [Devs Do Something podcast on Linea](https://youtu.be/KLCxcIG86eE?si=yNJpz-TH_oXl8lFY)
 - [Linea Mainnet Livestream Pt 1](https://www.youtube.com/live/B7DRGih9vgA?si=ndXpiz3jimH7KNNw)
 - [Linea Community Call ft Joe Lubin](https://linea.mirror.xyz/HaSyWLYDbCJCXEYFErmq6p_HRx50xaWzCWWIYmr4jMQ)
