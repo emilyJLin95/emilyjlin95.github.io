@@ -7,6 +7,7 @@ You can find me on Twitter, [@_emjlin](www.twitter.com/_emjlin).
 - What's an ERC/EIP and how to write a smart contract with royalties
   - [Video](https://youtu.be/2O6aL6gcaUI?si=aC6vKNoulplgGvXm)
   - [Written guide](https://trufflesuite.com/guides/nft-royalty/)
+  - [Full series](https://archive.trufflesuite.com/unleashed/)
 - Devcon 6 Workshop - Build a DApp on Optimism: How to Conquer L2 Bridging
   - [Video](https://www.youtube.com/watch?v=mvYM6QRE3OE&list=PLaM7G4Llrb7x3ol0Ag4_qebqtC9jSuQnE&index=26)
   - [Written guide](https://trufflesuite.com/guides/optimism-bridge-widget/)
